@@ -1,1 +1,2 @@
 # water-quality
+This repo is intended as a home for any scripts or analytical methods that could be of use in accessing, reformatting, or picking apart water quality data, especially from open sources such as USGS National Water Information Service (NWIS), the Water Quality Portal (https://www.waterqualitydata.us/portal_userguide/#table-7-sample-results-physicalchemical-result-retrieval-metadata), or NOAA. Whenever possible, I will aim to use publicly accessible tools and illustrate what is being done to manipulate and reshape data.
